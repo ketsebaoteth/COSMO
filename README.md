@@ -1,26 +1,26 @@
 ![Group 15 (1)](https://github.com/user-attachments/assets/982340a5-eaec-4b38-94d2-b7972971860f)
 
 # COSMO Editor
-**A Web Based Image Editing Software**
+**A Web-Based Image Editing Software**
 
-**Cosmo Editor** is a web-based editor that aims to revolutionize image editing by becoming more than just a photoshop clone and to provide better tools built with newer technologies and improved algorithms from the ground up.
+**Cosmo Editor** is a cutting-edge web-based editor designed to revolutionize image editing. It aims to surpass traditional tools by leveraging modern technologies and advanced algorithms.
 
 > [!IMPORTANT]
-> Please note that Cosmo Editor is still in its early stages of development. As such, its current features may seem limited. However, every project begins with a blank slate, and Cosmo is no exception.
+> Please note that Cosmo Editor is in its early development stages. Current features may be limited, but we are continuously working to expand and improve the software.
 
 ## Features
 - **Web-Based**: Access Cosmo Editor from any device with a web browser.
-- **Advanced Editing Tools**: Aims to improve on the editing tools of the industry standards such as Photoshop.
-- **User-Friendly Interface**: Designed to improve usability and streamline your workflow.
-- **Well taught out Plugin System**: Well taught out and fully Integrated Plugin system to create a community full of plugins.
-- **Improved On Outdated Functionalities**: A New Way to undo actions in a non-destructive way Using a Smart Undo Algorithm.
-- **Simple To Use And Web Based**
+- **Advanced Editing Tools**: Enhances industry-standard tools with innovative improvements.
+- **User-Friendly Interface**: Streamlined design to enhance usability and workflow.
+- **Integrated Plugin System**: A thoughtfully designed plugin system to foster a vibrant community of extensions.
+- **Smart Undo Algorithm**: A novel approach to non-destructive undo functionality.
+- **Simple and Accessible**: Easy to use and accessible from anywhere.
 
 # For Developers
 
-## Getting Started With Code Base
+## Getting Started with the Codebase
 
-To get Cosmo Editor up and running From Source, follow these steps:
+To set up Cosmo Editor from the source, follow these steps:
 
 1. Clone the repository:
     ```bash
@@ -38,22 +38,22 @@ To get Cosmo Editor up and running From Source, follow these steps:
     npm run dev
     ```
 
-If you encounter any missing libraries, simply run:
+If you encounter any missing libraries, run:
     ```bash
-    npm install THE_MISSING_LIBRARY's_NAME
+    npm install THE_MISSING_LIBRARY_NAME
     ```
 
 ## Contributing
 
-I welcome contributions! Please read our contributing guidelines for more details.
+We welcome contributions! Please read our contributing guidelines for more details.
 
 ## License
 
-This project is licensed under the GPL 2.0 License - see the LICENSE file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
 > [!IMPORTANT]
-> Cosmo Editor is currently in its early development stages and is a work in progress. We appreciate your patience and contributions as we continue to improve the project.
+> Cosmo Editor is a work in progress. We appreciate your patience and contributions as we continue to enhance the project.
 
 Thank you for choosing Cosmo Editor. We hope it enhances your photo editing experience!
