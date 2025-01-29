@@ -1,4 +1,4 @@
-![Group 15 (1)](https://github.com/user-attachments/assets/19ce1382-1542-47ec-baef-867a5152614a)
+![Group 15 (1)](https://github.com/user-attachments/assets/982340a5-eaec-4b38-94d2-b7972971860f)
 
 # COSMO Editor
 **A Web Based Image Editing Software**
